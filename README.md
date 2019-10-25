@@ -9,5 +9,4 @@ zheli chuxian bug  xiugaihaole
 2 继续dev操作  好了  合并
 
 
-************
-second bughave fixed
+
