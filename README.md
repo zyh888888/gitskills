@@ -10,3 +10,5 @@ Creating a new branch is quick & simple.
 55555555555555555555555555555
 9999999999999999999
 git 处理test  bug
+
+出现bug 要出处理了 先 stash
