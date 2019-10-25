@@ -12,3 +12,5 @@ Creating a new branch is quick & simple.
 git 处理test  bug
 
 出现bug 要出处理了 先 stash
+这里事bug 我先在已经处理好了  merge后删除test分支
+
